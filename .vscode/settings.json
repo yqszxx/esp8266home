@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "characteristics.h": "c",
+        "system_error": "c",
+        "softwareserial.h": "c",
+        "optional": "c",
+        "ostream": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}
